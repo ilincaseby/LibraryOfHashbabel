@@ -1,0 +1,2 @@
+# LibraryOfHashbabel
+A program where you can add book with definitions in a library. You can add, remove, change a definition. Also is available a user-add system. The users can borrow return and lose books, all being a factor to increase or decrease an user score. If the user has a negative score, it can't borrow books anymore. The books are getting reviews. At the end of the day the program will show a top of books and a top of users.
